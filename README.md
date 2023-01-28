@@ -20,8 +20,8 @@ I finally had a Touchbar configuration that was tailored to my specific needs an
 ## Media
 ![media](/Images/media.png)
 
-## Main
+## Currencies
 ![currency](/Images/currency.png)
 
-## Main
+## Info
 ![info](/Images/info.png)

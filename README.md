@@ -1,5 +1,7 @@
 # Config for My TouchBar My Rules 
 
+![main](/Images/linkedin.png)
+
 Once upon a time, I was constantly frustrated with the limited functionality of my MacBook's Touchbar. I wanted to have more control over my media, have quick access to important information like weather and CPU usage, and be able to easily switch between different modes like "Do Not Disturb" and "Day/Night" mode.
 
 So, I decided to create my own Touchbar configuration tool called My Touchbar My Rules, or [MTMR](https://github.com/Toxblh/MTMR) for short. I spent countless hours tinkering and experimenting until I finally had a setup that suited all of my needs.

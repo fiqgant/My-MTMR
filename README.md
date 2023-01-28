@@ -1,6 +1,6 @@
 # Config for My TouchBar My Rules 
 
-![main](/Images/linkedin.png)
+![main](/Images/ss.png)
 
 Once upon a time, I was constantly frustrated with the limited functionality of my MacBook's Touchbar. I wanted to have more control over my media, have quick access to important information like weather and CPU usage, and be able to easily switch between different modes like "Do Not Disturb" and "Day/Night" mode.
 
